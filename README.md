@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guy-Georges Adou Bogolo</h1>
-<h3 align="center">I'm a recent grad with a bachelor of science in Management of Information Systems. I am passionate about building great products, automation, AI, web development and design. </h3>
+<h3 align="center">I'm a grad student in Applied Data Science at CMU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guyadou&label=Profile%20views&color=0e75b6&style=flat" alt="guyadou" /> </p>
 
 <p align="left"> <a href="https://twitter.com/guy_bogolo" target="blank"><img src="https://img.shields.io/twitter/follow/guy_bogolo?logo=twitter&style=for-the-badge" alt="guy_bogolo" /></a> </p>
-
-- 🔭 I’m currently working on a Discord Bot **Botty**
 
 - 👨‍💻 All of my projects are available at [https://guygeorges-adou-bogolo.super.site/](https://guygeorges-adou-bogolo.super.site/)
 
