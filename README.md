@@ -9,8 +9,6 @@
 
 - 📝 I write articles on [https://medium.com/@aboubogolo](https://medium.com/@aboubogolo)
 
-- 📫 How to reach me **aboubogolo@gmail.com**
-
 - 📄 Know about my experiences [[(https://guygeorges-adou-bogolo.super.site/)](https://guygeorges-adou-bogolo.super.site/)
 
 <h3 align="left">Connect with me:</h3>
