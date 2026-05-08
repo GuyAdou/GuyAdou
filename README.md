@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guyadou&label=Profile%20views&color=0e75b6&style=flat" alt="guyadou" /> </p>
 
-<p align="left">
-<a href="https://twitter.com/guy_bogolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guy_bogolo" height="30" width="40" /></a>
-<a href="https://medium.com/@aboubogolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aboubogolo" height="30" width="40" /></a>
-<a href="/https://medium.com/feed/@aboubogolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@aboubogolo" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,mysql,tensorflow,pytorch,flask,docker,gcp,git,postman,selenium&perline=12)](https://skillicons.dev)
@@ -24,5 +18,11 @@
 
 - 📝 I write articles on [https://medium.com/@aboubogolo](https://medium.com/@aboubogolo)
 
-- 📄 LinkedIn [[(https://guygeorges-adou-bogolo.super.site/)](https://guygeorges-adou-bogolo.super.site/)
+- 📄 Connect on LinkedIn [[(https://guygeorges-adou-bogolo.super.site/)](https://guygeorges-adou-bogolo.super.site/)
+
+<p align="left">
+<a href="https://twitter.com/guy_bogolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guy_bogolo" height="30" width="40" /></a>
+<a href="https://medium.com/@aboubogolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aboubogolo" height="30" width="40" /></a>
+<a href="/https://medium.com/feed/@aboubogolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@aboubogolo" height="30" width="40" /></a>
+</p>
 
