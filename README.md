@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guyadou&label=Profile%20views&color=0e75b6&style=flat" alt="guyadou" /> </p>
 
-<p align="left"> <a href="https://twitter.com/guy_bogolo" target="blank"><img src="https://img.shields.io/twitter/follow/guy_bogolo?logo=twitter&style=for-the-badge" alt="guy_bogolo" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://guygeorges-adou-bogolo.super.site/](https://guygeorges-adou-bogolo.super.site/)
 
 - 📝 I write articles on [https://medium.com/@aboubogolo](https://medium.com/@aboubogolo)
