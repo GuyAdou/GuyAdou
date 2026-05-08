@@ -18,6 +18,6 @@
 
 - 📝 I write articles on [https://medium.com/@aboubogolo](https://medium.com/@aboubogolo)
 
-- 📄 Connect on LinkedIn [[(https://guygeorges-adou-bogolo.super.site/)](https://guygeorges-adou-bogolo.super.site/)
+- 📄 Connect on LinkedIn [[([(https://www.linkedin.com/in/GuyAdou)])
 
 
