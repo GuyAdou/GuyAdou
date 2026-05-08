@@ -22,7 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=pandas,numpy,sklearn,jupyter,anaconda,streamlit,airflow&perline=12)](https://skillicons.dev)
 
-<h3 align="left">Companies and institutions I had work experience with:</h3>
+<h3 align="left">Past experiences at:</h3>
 
 ![Companies](marquee.svg)
 
