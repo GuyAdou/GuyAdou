@@ -20,9 +20,4 @@
 
 - 📄 Connect on LinkedIn [[(https://guygeorges-adou-bogolo.super.site/)](https://guygeorges-adou-bogolo.super.site/)
 
-<p align="left">
-<a href="https://twitter.com/guy_bogolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guy_bogolo" height="30" width="40" /></a>
-<a href="https://medium.com/@aboubogolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aboubogolo" height="30" width="40" /></a>
-<a href="/https://medium.com/feed/@aboubogolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@aboubogolo" height="30" width="40" /></a>
-</p>
 
