@@ -1,0 +1,91 @@
+<svg width="800" height="90" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes scroll {
+        0%   { transform: translateX(0); }
+        100% { transform: translateX(-1000px); }
+      }
+      .track { animation: scroll 20s linear infinite; }
+    </style>
+    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%"   stop-color="black" stop-opacity="1"/>
+      <stop offset="10%"  stop-color="white" stop-opacity="1"/>
+      <stop offset="90%"  stop-color="white" stop-opacity="1"/>
+      <stop offset="100%" stop-color="black" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="fadeMask">
+      <rect width="800" height="90" fill="url(#fade)"/>
+    </mask>
+  </defs>
+
+  <rect width="800" height="90" fill="#ffffff" rx="12"/>
+
+  <g mask="url(#fadeMask)">
+    <g class="track">
+
+      <!-- ── SET 1 ── each logo centered in a 200px slot, slots at 50, 250, 450, 650 (center x) ── -->
+
+      <!-- Tesla T icon — centered at x=50 -->
+      <g transform="translate(14, 12) scale(2.6)">
+        <path d="M12 5.362l2.475-3.026s4.245.09 8.471 2.054c-1.082 1.636-3.231 2.438-3.231 2.438-.146-1.439-1.154-1.79-4.354-1.79L12 24 8.619 5.034c-3.18 0-4.188.354-4.335 1.792 0 0-2.146-.795-3.229-2.43C5.28 2.431 9.525 2.34 9.525 2.34L12 5.362l-.004.002H12v-.002zm0-3.899c3.415-.03 7.326.528 11.328 2.28.535-.968.672-1.395.672-1.395C19.625.612 15.528.015 12 0 8.472.015 4.375.61 0 2.349c0 0 .195.525.672 1.396C4.674 1.989 8.585 1.435 12 1.46v.003z" fill="#CC0000"/>
+      </g>
+
+      <!-- Separator at x=175 -->
+      <text x="168" y="52" font-family="sans-serif" font-size="20" fill="#cccccc">•</text>
+
+      <!-- Google wordmark — centered at x=250+offset for text width -->
+      <text x="200" y="60" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-1">
+        <tspan fill="#4285F4">G</tspan><tspan fill="#EA4335">o</tspan><tspan fill="#FBBC05">o</tspan><tspan fill="#4285F4">g</tspan><tspan fill="#34A853">l</tspan><tspan fill="#EA4335">e</tspan>
+      </text>
+
+      <!-- Separator at x=425 -->
+      <text x="418" y="52" font-family="sans-serif" font-size="20" fill="#cccccc">•</text>
+
+      <!-- PwC — centered at x=550 -->
+      <g transform="translate(455, 10)">
+        <polygon points="24,0 48,0 39,13 15,13" fill="#E05C00"/>
+        <polygon points="15,0 24,0 15,13 6,13"  fill="#E05C00"/>
+        <text x="0" y="62" font-family="Georgia,'Times New Roman',serif" font-size="32" font-weight="700" fill="#1a1a1a">pwc</text>
+      </g>
+
+      <!-- Separator at x=675 -->
+      <text x="668" y="52" font-family="sans-serif" font-size="20" fill="#cccccc">•</text>
+
+      <!-- CMU — centered at x=800 -->
+      <text x="700" y="36" font-family="Georgia,'Times New Roman',serif" font-size="15" font-weight="700" fill="#C41230">Carnegie</text>
+      <text x="700" y="54" font-family="Georgia,'Times New Roman',serif" font-size="15" font-weight="700" fill="#C41230">Mellon</text>
+      <text x="700" y="72" font-family="Georgia,'Times New Roman',serif" font-size="15" font-weight="700" fill="#C41230">University</text>
+
+      <!-- ── SET 2 (offset 1000px) ── -->
+
+      <!-- Tesla -->
+      <g transform="translate(1014, 12) scale(2.6)">
+        <path d="M12 5.362l2.475-3.026s4.245.09 8.471 2.054c-1.082 1.636-3.231 2.438-3.231 2.438-.146-1.439-1.154-1.79-4.354-1.79L12 24 8.619 5.034c-3.18 0-4.188.354-4.335 1.792 0 0-2.146-.795-3.229-2.43C5.28 2.431 9.525 2.34 9.525 2.34L12 5.362l-.004.002H12v-.002zm0-3.899c3.415-.03 7.326.528 11.328 2.28.535-.968.672-1.395.672-1.395C19.625.612 15.528.015 12 0 8.472.015 4.375.61 0 2.349c0 0 .195.525.672 1.396C4.674 1.989 8.585 1.435 12 1.46v.003z" fill="#CC0000"/>
+      </g>
+
+      <text x="1168" y="52" font-family="sans-serif" font-size="20" fill="#cccccc">•</text>
+
+      <!-- Google -->
+      <text x="1200" y="60" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" letter-spacing="-1">
+        <tspan fill="#4285F4">G</tspan><tspan fill="#EA4335">o</tspan><tspan fill="#FBBC05">o</tspan><tspan fill="#4285F4">g</tspan><tspan fill="#34A853">l</tspan><tspan fill="#EA4335">e</tspan>
+      </text>
+
+      <text x="1418" y="52" font-family="sans-serif" font-size="20" fill="#cccccc">•</text>
+
+      <!-- PwC -->
+      <g transform="translate(1455, 10)">
+        <polygon points="24,0 48,0 39,13 15,13" fill="#E05C00"/>
+        <polygon points="15,0 24,0 15,13 6,13"  fill="#E05C00"/>
+        <text x="0" y="62" font-family="Georgia,'Times New Roman',serif" font-size="32" font-weight="700" fill="#1a1a1a">pwc</text>
+      </g>
+
+      <text x="1668" y="52" font-family="sans-serif" font-size="20" fill="#cccccc">•</text>
+
+      <!-- CMU -->
+      <text x="1700" y="36" font-family="Georgia,'Times New Roman',serif" font-size="15" font-weight="700" fill="#C41230">Carnegie</text>
+      <text x="1700" y="54" font-family="Georgia,'Times New Roman',serif" font-size="15" font-weight="700" fill="#C41230">Mellon</text>
+      <text x="1700" y="72" font-family="Georgia,'Times New Roman',serif" font-size="15" font-weight="700" fill="#C41230">University</text>
+
+    </g>
+  </g>
+</svg>

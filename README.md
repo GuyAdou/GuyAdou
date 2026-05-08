@@ -22,5 +22,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=pandas,numpy,sklearn,jupyter,anaconda,streamlit,airflow&perline=12)](https://skillicons.dev)
 
+<h3 align="left">Companies and institutions I had work experience with:</h3>
+
+![Companies](marquee.svg)
+
 <h3 align="left">ML / AI:</h3>
 <p align="left"> <img src="https://img.shields.io/badge/Transformers%20%2F%20LLMs-FF6F00?style=for-the-badge&logoColor=white" alt="Transformers/LLMs"/> <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logoColor=white" alt="NLP"/> <img src="https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge&logoColor=white" alt="CNNs"/> <img src="https://img.shields.io/badge/LSTM-4285F4?style=for-the-badge&logoColor=white" alt="LSTM"/> <img src="https://img.shields.io/badge/Random%20Forest-34A853?style=for-the-badge&logoColor=white" alt="Random Forest"/> </p>
