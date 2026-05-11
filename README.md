@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guy-Georges Adou Bogolo</h1>
-<h3 align="center">I’m a product-driven data scientist pursuing my Master’s degree at Carnegie Mellon University (CMU).</h3>
+<h3 align="center">I’m a product-driven data scientist pursuing my Master’s degree in Data Science at Carnegie Mellon University (CMU).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guyadou&label=Profile%20views&color=0e75b6&style=flat" alt="guyadou" /> </p>
 
